@@ -1,5 +1,26 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<meta charset = "UTF-8">
+<title>My First Page</title>
+</head>
 
+<body>
+
+	<main>
+	
+<table>
+  <tr><th>Name</th><th>Age</th><th>Team</th></tr>
+  <tr><td>Colleen</td><td>26</td><td>Browns</td></tr>
+</table>
+	</main>
+
+	<footer>
+		<p>Think of a more interesting footer</p>
+	</footer>
+
+</body>
+</html>
 <!--
 **RandomFriendlyBuddy/RandomFriendlyBuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
